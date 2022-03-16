@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/saltyaom/Documents/web/niku-doc/src'
+let g:netrw_dirhist_7='/Users/saltyaom/.config/lvim/colors'
+let g:netrw_dirhist_6='/Users/saltyaom/Documents/web/usagi/examples/basic/src'
+let g:netrw_dirhist_5='/Users/saltyaom/Documents/web/usagi/examples/json/src'
+let g:netrw_dirhist_4='/Users/saltyaom/.gradle'
+let g:netrw_dirhist_3='/Users/saltyaom/.gradle/wrapper'
+let g:netrw_dirhist_2='/Users/saltyaom/.gradle'
+let g:netrw_dirhist_1='/Users/saltyaom/Documents/web/hello/hi-supabase/src'
+let g:netrw_dirhist_0='/Users/saltyaom/Documents/web/hifumin-mirror/.github/workflows'
+let g:netrw_dirhist_9='/Users/saltyaom/Documents/web/hifumin-mirror/.github'

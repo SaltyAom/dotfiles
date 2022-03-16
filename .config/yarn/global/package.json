@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-tauri-app": "^1.0.0-beta.4",
+    "create-vite": "^2.7.2"
+  }
+}
